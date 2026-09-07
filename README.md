@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Ghulam Dastgeer
 
-I am **Ghulam Dastgeer** (also known as *Ghulam Dastgir*), a professional **Full-Stack Website & Mobile Apps Developer**. I specialize in creating high-performance, secure, and modern digital applications for businesses, startups, and clients worldwide.
+I am **Ghulam Dastgeer** (also known as *Huraira*), a professional **Full-Stack Website & Mobile Apps Developer**. I specialize in creating high-performance, secure, and modern digital applications for businesses, startups, and clients worldwide.
 
 - 🌐 **Official Website & Portfolio**: [https://ghulamdastgeer.com](https://ghulamdastgeer.com)
 - 📍 **Location**: Pakistan (Available for Global Remote Work)
